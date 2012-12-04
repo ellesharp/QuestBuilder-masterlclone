@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/QuestBuilder.cs">
+    <Files>
+      <File FileName="Assets/QuestBuilder.cs" Line="217" Column="42" />
+      <File FileName="Assets/QuestNode.cs" Line="17" Column="6" />
+      <File FileName="Assets/QuestModel.cs" Line="8" Column="14" />
+      <File FileName="Assets/ComboBox.cs" Line="162" Column="31" />
+      <File FileName="Assets/GUIHelper.cs" Line="15" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
